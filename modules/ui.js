@@ -1,4 +1,3 @@
-/* eslint-disable import/extensions */
 import { store } from './store.js';
 
 export default class UI {

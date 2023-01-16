@@ -24,9 +24,6 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <img src="./src/images/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h2><b>Awesome Books</b></h2>
 
 </div>
